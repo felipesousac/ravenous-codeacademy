@@ -1,3 +1,4 @@
+import React from 'react'
 import './Businnes.css'
 
 const business = {
