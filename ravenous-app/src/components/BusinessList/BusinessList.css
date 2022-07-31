@@ -3,4 +3,7 @@
   justify-content: space-around;
   flex-wrap: wrap;
   margin: 4.4rem 10%;
+  /*place 3 items in a row and center them*/
+  max-width: 1250px;
+  margin-inline: auto;
 }
